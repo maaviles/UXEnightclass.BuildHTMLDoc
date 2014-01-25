@@ -1,6 +1,6 @@
-# UXEnightclass assignment - Build an HTML Document
+# UXE - Build an HTML Document
 
-For this section of the course, students will be required to create a single page Web Site that incorporates best practices for HTML and now apply CSS styling. 
+For this section of the course, students will be required to create a single page Web Site that incorporates best practices for building an HTML document. 
 
 ## Submitting assignments
 
